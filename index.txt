@@ -11,7 +11,7 @@
 <h1>这是地图里面的其中一个建筑
 <img src="MinecraftMap1.jpg" align="top" width="900" height="800"></h>
 <p>是不是很壮观呢？作者我都好想住进去~有人要一起吗？？？</p>
-<img src="Minecraftgif.gif" left="50%" width="800" height="500">
+<img src="Minecraftgif.gif" width="800" height="500">
 <address>
 创作者Jazz<br>
 <a href="mailto:us@example.org">kuangzhanhong64@gmail.com</a><br>
